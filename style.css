@@ -1,0 +1,53 @@
+.nav-item {
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.navbar-light .navbar-nav .nav-link {
+  color: rgba(0, 0, 0, 0.55);
+}
+
+.navbar-light .navbar-nav .nav-link:hover {
+  color: #f2295b;
+}
+
+ul .home {
+  color: #f2295b;
+}
+.cart {
+  color: #f2295b;
+  text-align: center;
+}
+.main-section{
+    display: flex;
+}
+.section1 {
+  width: 600px;
+  height: 180px;
+  translate: 270px;
+}
+.main-heading {
+  color: #415161;
+  font-family: "Teko", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: bold;
+  font-style: normal;
+  margin-top: 200px;
+  font-size: 90px;
+}
+.main-para {
+  color: #415161;
+  font-family: "Teko", sans-serif;
+  font-weight: 200;
+  font-size: 26px;
+}
+.btn-explore{
+   font-weight: 500;
+   height: 44px;
+   width: 166.8px;
+}
+.section2{
+    translate: 350px;
+    margin-top: 50px;
+}
+
